@@ -1,0 +1,3 @@
+Do not ever use the system python env, always use uv and look for venvs. Confirm before deleting or creating a venv.
+
+Keep comments minimal and informative. 
